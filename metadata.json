@@ -1,0 +1,8 @@
+{
+  "name": "FraudTrace",
+  "description": "Evidence organization and forensic incident reporting platform for online fraud cases with automated entity extraction and chronological timeline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
